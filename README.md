@@ -3,7 +3,7 @@
 This project created a searchable database in Excel of 2500+ research papers from the Journal of Machine Learning Research (JMLR).
 
 
-![1722095315983](https://github.com/user-attachments/assets/fab9dc27-6c45-4d29-b48b-e1ffc4e9f9e2)
+
 
 
 Data Dictionary:
